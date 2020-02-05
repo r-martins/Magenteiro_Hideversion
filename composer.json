@@ -1,6 +1,6 @@
 {
     "name": "magenteiro/hideversion",
-    "description": "",
+    "description": "Simples plugin que oculta a versão do Magento exibida em /magento_version.",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
         "magento/module-version": "~2.0",
